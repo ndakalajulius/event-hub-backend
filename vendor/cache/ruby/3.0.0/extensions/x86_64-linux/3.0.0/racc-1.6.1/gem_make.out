@@ -1,0 +1,17 @@
+current directory: /home/purity/Desktop/event-hub-backend/vendor/cache/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+/home/purity/.rbenv/versions/3.0.2/bin/ruby -I /home/purity/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20221206-22768-2qde15.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/purity/Desktop/event-hub-backend/vendor/cache/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/purity/Desktop/event-hub-backend/vendor/cache/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/purity/Desktop/event-hub-backend/vendor/cache/ruby/3.0.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20221206-22768-at9yxm/racc
