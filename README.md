@@ -5,23 +5,24 @@ EVENT-HUB APP
 
 An application used to book events, built with React, Rails, JavaScript, and CSS.
 
-Installation and Setup Instructions
+SET UP INSTRUCTIONS:
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
-Installation:
+INSTALLATION:
 
 npm install
 
-To Run Test Suite:
+TO RUN TEST SUITE:
 
 npm test
 
-To Start Server:
+TO START SERVER:
 
 npm start
 
-Reflection
+REFLECTION:
+
 This was a school project done using react for frontend and rails for backend
 Built an Event-hub project
 This project challenging and therefore a really good learning experience
