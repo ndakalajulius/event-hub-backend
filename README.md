@@ -1,24 +1,32 @@
 # README
+TITLE :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+EVENT-HUB APP
 
-Things you may want to cover:
+An application used to book events, built with React, Rails, JavaScript, and CSS.
 
-* Ruby version
+Installation and Setup Instructions
 
-* System dependencies
+Clone down this repository. You will need node and npm installed globally on your machine.
 
-* Configuration
+Installation:
 
-* Database creation
+npm install
 
-* Database initialization
+To Run Test Suite:
 
-* How to run the test suite
+npm test
 
-* Services (job queues, cache servers, search engines, etc.)
+To Start Server:
 
-* Deployment instructions
+npm start
 
-* ...
+Reflection
+This was a school project done using react for frontend and rails for backend
+Built an Event-hub project
+This project challenging and therefore a really good learning experience
+
+This was a one week long project built during our fourth phase at moringa school. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.
+
+One of the main challenges was ran into was Authentication. This lead me to spend a few days on a research on  authentication .
+
